@@ -1,0 +1,5 @@
+Un tipo de archivo en el que todos los valores están delimitados por comas;CSV
+Crear un segundo nombre para una variable metodo;alias
+Usado para definir una funcion;def
+Que símbolo debe llevar una variable para que sea una variable de instancia;@
+gestor de paquetes para el lenguaje de programación Ruby;RubyGems
